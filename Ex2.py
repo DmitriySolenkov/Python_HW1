@@ -10,7 +10,7 @@ elif x < 0 and y < 0:
     print('3  четверть')
 elif x > 0 and y < 0:
     print('4 четверть')
-elif x==0:
+elif x == 0:
     print('Ось Х')
 else:
     print('Ось Y')
